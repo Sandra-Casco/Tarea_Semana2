@@ -1,0 +1,15 @@
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\bin\Debug\net6.0\Ejercicio3.exe
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\bin\Debug\net6.0\Ejercicio3.deps.json
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\bin\Debug\net6.0\Ejercicio3.runtimeconfig.json
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\bin\Debug\net6.0\Ejercicio3.dll
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\bin\Debug\net6.0\Ejercicio3.pdb
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.AssemblyReference.cache
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfo.cs
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.dll
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\refint\Ejercicio3.dll
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.pdb
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\Ejercicio3.genruntimeconfig.cache
+D:\DOCUMENTOS\U CEUTEC\PROGRAMACIÓN II\I PAC23\SEMANA 2\Ejercicio3\obj\Debug\net6.0\ref\Ejercicio3.dll
